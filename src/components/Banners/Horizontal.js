@@ -2,7 +2,9 @@ import React from 'react'
 
 const Horizontal = () => {
   return (
-    <div>Horizontal</div>
+    <div className="w-[650px] h-[350px] rounded-xl border border-black">
+     Horizontal
+    </div>
   )
 }
 
